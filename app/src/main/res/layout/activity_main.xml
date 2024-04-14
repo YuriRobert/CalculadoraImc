@@ -73,7 +73,7 @@
         android:textAllCaps="false"
         android:padding="15dp"
         android:layout_margin="20dp"
-        android:backgroundTint="@color/blue"/>
+        android:backgroundTint="@color/Verde_escuro"/>
     
     <TextView
         android:id="@+id/txtResultado"
